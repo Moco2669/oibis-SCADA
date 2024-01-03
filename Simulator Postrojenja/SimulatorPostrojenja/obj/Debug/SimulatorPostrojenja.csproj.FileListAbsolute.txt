@@ -1,0 +1,28 @@
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe.config
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.pdb
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.AssemblyReference.cache
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.CoreCompileInputs.cache
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.exe
+C:\Users\Moco26\source\repos\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe.config
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.exe
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe.config
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.exe
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\SimulatorPostrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe.config
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.exe
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\bin\Debug\SimulatorPostrojenja.pdb
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.AssemblyReference.cache
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.exe
+D:\SNIMANJA\FAKS JU\4GODINA\BEZBEDNOS\Attack-on-SCADA-system\Simulator Postrojenja\SimulatorPostrojenja\obj\Debug\SimulatorPostrojenja.pdb

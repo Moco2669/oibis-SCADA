@@ -1,0 +1,7 @@
+STA 100
+TCP 25252
+
+DBC 3
+
+DO_REG 1 1000 0 1 0 DO # # Name:ControlRods
+IN_REG 1 2000 0 700 250 AI 250 350 Name:WaterThermometer
